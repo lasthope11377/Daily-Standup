@@ -2,7 +2,15 @@ This is my daily scrum:
 
 March 22, 2021:
 
-Learning Git, Github
+What I yesterday:
+
+Joined in August group workshop
+Joined in Trade of Tricks workshop
+
+What I am doing today:
+Learning Git, Github from youtube
+He is the instructor "The Coding Train"
+
 Created a new github account:
 email:lasthope11377@gmail.com
 username:lasthope11377
