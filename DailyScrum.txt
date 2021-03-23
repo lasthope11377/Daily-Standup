@@ -1,5 +1,7 @@
 This is my daily scrum:
 
+Adding them in daily branch
+
 March 22, 2021:
 
 What I yesterday:
