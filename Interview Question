@@ -1,0 +1,208 @@
+API Interview Questions
+* Required
+Email address *
+Your email
+1) What are the tools used for API testing? *
+Your answer
+2) What is API testing? *
+Your answer
+3) What are the common tests performed on APIs? *
+Your answer
+4) Mention the key difference between UI level testing and API testing? *
+Your answer
+5) Explain what is SOAP? *
+Your answer
+6) Explain what is REST API? *
+Your answer
+7) Difference API and Unit Testing? *
+Your answer
+8) How to test APIs? *
+Your answer
+9) Mention what the main areas to be taken into consideration while writing an API document? *
+Your answer
+10) In the API document explain how to document each function? What are the tools used for documentation? *
+Your answer
+11) Explain the API framework? *
+Your answer
+12) How does the API Builder work? *
+Your answer
+13) Explain what is TestApi? *
+Your answer
+14) What is Input injection and what are different ways of doing it? *
+Your answer
+15) What are the main challenges of API testing? *
+Your answer
+16) What is API testing with the run scope? *
+Your answer
+17) Explain what are the principles of API test design? *
+Your answer
+18) What are the types of Bugs will API testing finds? *
+Your answer
+19) What are the tools used for API test automation? *
+Your answer
+20) Mention the steps for testing API? *
+Your answer
+21) What are the common protocols that are testing in API testing? *
+Your answer
+
+ Agile Interview Questions
+* Required
+Email address *
+Your email
+What is the duration of a scrum sprint? *
+Your answer
+What is Velocity? *
+Your answer
+What do you know about impediments in Scrum? Give some examples of impediments? *
+Your answer
+What is the difference and similarity between Agile and Scrum? *
+Your answer
+What is the increment? Explain. *
+Your answer
+What is “build-breaker”? *
+Your answer
+What do you understand by Daily Stand-Up? *
+Your answer
+What do you know about the Scrum ban? *
+Your answer
+State some of the Agile quality strategies. *
+Your answer
+Do you know about Agile Manifesto & its Principles? Explain in brief. *
+Your answer
+Is there any drawback to the Agile model? If yes, explain. *
+Your answer
+Define Zero Sprint and Spike in Agile. *
+Your answer
+What is the role of the Scrum Master? *
+Your answer
+What do you know about a story point in Scrum? *
+Your answer
+What is the role of Sashimi in Scrum methodology? *
+Your answer
+What are the different roles in Scrum? *
+Your answer
+What are the responsibilities of a Scrum Master? *
+Your answer
+What are the different ceremonies and their importance in Scrum? *
+Your answer
+What do you understand by the term Agile testing? *
+Your answer
+State some major principles of Agile testing. *
+Your answer
+What are the skills of a Good Agile Tester? *
+Your answer
+What do you understand by the term “Scrum of Scrums”? *
+Your answer
+Scrum is an Agile framework, right? Name a few other Agile frameworks. *
+Your answer
+Is it ever suggested to use waterfall over Scrum? If yes, explain when. *
+Your answer
+Why does Scrum encourage the use of automated testing for projects? *
+Your answer
+What do you know about the “Planning Poker” technique? *
+Your answer
+Name some methodologies and development where you have used the Agile model. *
+Your answer
+Share your experience as a Scrum Master/Product Owner/Agile team member and what were your primary responsibilities? *
+Your answer
+What was the length of sprints/iterations in your project? *
+Your answer
+How have you done user story mapping & estimation of stories in your projects? *
+Your answer
+What is the biggest challenge you faced in your project while handling the Scrum team members? *
+Your answer
+Have you ever performed the removal of impediments as a scrum master on behalf of a scrum team? *
+Your answer
+What is the difference between the agile & traditional ways of working? *
+Your answer
+What is the difference between the Sprint Planning Meeting and Sprint Retrospective Meeting? *
+Your answer
+How is an agile testing methodology different from other testing methodologies? *
+Your answer
+What is the difference between agile & scrum? *
+Your answer
+Do you have a Scrum Master certification? *
+Your answer
+Do you hold any agile certification? Why did you choose this certification? *
+Your answer
+When can you say your story is ready to develop/groom enough to deliver? *
+Your answer
+How do you manage if the story is a high priority and resources left before the last day of sprint completion? *
+Your answer
+As a scrum project manager, what are your responsibilities? *
+Your answer
+How (What are the parameters) to choose the number of resources required for your scrum team? *
+Your answer
+How did you complete this form? *
+Google
+By myself
+Help from team members
+ 
+Postman Interview Questions
+* Required
+Email address *
+Your email
+What’s the use of Workspaces in Postman? *
+Your answer
+How many types of Workspaces are supported by Postman? *
+1
+2
+3
+How to create a postman workspace? *
+Your answer
+How can Postman collections run through the command line? *
+Your answer
+How can you set headers for all the requests that are in a particular Postman collection? *
+Your answer
+How can you generate HTML based reports running tests through the Postman? *
+Your answer
+How can we use Postman history and save requests from the Postman history to the existing or new collections?
+Your answer
+How can you import requests in formats other than cURL into Postman? *
+Your answer
+Is it possible to Log Requests and Responses in Postman? *
+Your answer
+How can Postman be used to create Mock Servers? *
+Your answer
+How can we use Custom Javascript Libraries with Postman Pre-request Scripts or Tests? *
+Your answer
+What is Postman Monitors? *
+Your answer
+What is the header and how do you use it *
+Your answer
+What is Global and local variable *
+Your answer
+Can you run collection from the command line and how, walkthrough, anything else? *
+Your answer
+In which type of encoding does the postman accept authorization credentials? Why? *
+Your answer
+Which one has a higher priority in Postman? A global variable or a local variable? *
+Your answer
+Describe any four response things you receive from a response (Correct or Incorrect) *
+Your answer
+State any 5 types of Request Method types. *
+Your answer
+Please define status code 401. Also, a situation in which we can incur such status code. *
+Your answer
+What is the “Bulk Edit” feature of Postman used for? *
+Your answer
+Why do we group requests under collections when the collection is already a grouping of requests? *
+Your answer
+What are the two ways in which tests can be written in Postman? *
+Your answer
+What command-line interface is used with Postman normally to serve continuous integration? *
+Your answer
+What is Jenkins? *
+Your answer
+In what language is Jenkins written? *
+Your answer
+What do you understand by continuous delivery? *
+Your answer
+What is the main difference between continuous delivery and continuous deployment? *
+Your answer
+What is the difference between Post-Build and Build with respect to Jenkins? *
+Your answer
+What is the difference between –reporters and –reporter flags in Jenkins? *
+Your answer
+
+ 
